@@ -1,0 +1,9 @@
+# 提交信息模板（git config commit.template 指向本文件）
+#
+# 第一行：<type>(<scope>): <简述>
+#   type: feat | fix | docs | style | refactor | test | chore | perf | build | ci
+#   例如：feat(auth): 支持手机号验证码登录
+#
+# 空一行后写正文（可选），说明「为什么改」「改了什么」。
+#
+# 最后写页脚（可选）：关联 issue，例如 Closes #12；破坏性变更写 BREAKING CHANGE: 说明。
